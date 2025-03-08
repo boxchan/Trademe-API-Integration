@@ -1,0 +1,7 @@
+# Ignore environment files
+.env                # 🔒 .env 파일은 깃허브에 올리지 마라!
+config.pyc
+__pycache__/
+
+# Ignore virtual environment
+venv/               # 🔒 가상환경 폴더도 올리지 마라!
