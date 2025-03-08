@@ -30,7 +30,7 @@ python-dotenv - For managing environment variables.
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/Trademe-API-Integration.git
+git clone https://github.com/boxchan/Trademe-API-Integration.git
 cd Trademe-API-Integration
 
 2️⃣ Create a Virtual Environment
